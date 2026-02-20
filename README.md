@@ -32,7 +32,7 @@ Add the dependency:
 ```xml
 <dependency>
     <groupId>com.github.charisad</groupId>
-    <artifactId>cardutil-java</artifactId>
+    <artifactId>cardutil.java</artifactId>
     <version>Tag</version>
 </dependency>
 ```
