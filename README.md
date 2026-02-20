@@ -1,7 +1,7 @@
 
 # cardutil.java
 
-**cardutil.java** is a Java port of the [cardutil](https://github.com/adelosa/cardutil) Python package for working with payment card systems, including command-line tools for working with Mastercard IPM files.
+**cardutil.java** is a Java implementation of the [cardutil](https://github.com/adelosa/cardutil) Python package for working with payment card systems, including command-line tools for working with Mastercard IPM files.
 
 ![Java CI](https://github.com/charisad/cardutil.java/actions/workflows/maven.yml/badge.svg)
 ![JitPack](https://jitpack.io/v/charisad/cardutil.java.svg)
